@@ -120,7 +120,7 @@ public class MainActivity extends AppCompatActivity {
             the item is truly an EditText object, we can cast it using
             (EditText). This converts the output of findViewById into
             an object of type EditText, which we can then store into
-            our "josie" variable.asd
+            our "josie" variable.
          */
 
         String message = josie.getText().toString();
